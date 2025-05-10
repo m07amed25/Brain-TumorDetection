@@ -38,8 +38,8 @@ Cancer-Detection/
 │   └── index.html         # HTML template
 ├── uploads/               # Folder to store uploaded images
 └── README.md              # This file
+```
 
 ---
 
-[model link](https://drive.google.com/file/d/1qSo2k4d5LrIKl894ewOugfbXfmPBSC1o/view?usp=drive_link)
-
+This is the [model](https://drive.google.com/file/d/1qSo2k4d5LrIKl894ewOugfbXfmPBSC1o/view?usp=drive_link)
