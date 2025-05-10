@@ -41,5 +41,5 @@ Cancer-Detection/
 
 ---
 
-(model link)[https://drive.google.com/file/d/1qSo2k4d5LrIKl894ewOugfbXfmPBSC1o/view?usp=drive_link]
+[model link](https://drive.google.com/file/d/1qSo2k4d5LrIKl894ewOugfbXfmPBSC1o/view?usp=drive_link)
 
